@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#titulo{
+    font-size: 36px;
+    text-align: center;
+}
+.parrafo{
+font-family: Mukta Malar;
+font-size: 20px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+
